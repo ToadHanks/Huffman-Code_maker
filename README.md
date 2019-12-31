@@ -66,7 +66,7 @@ Compress the input string using the method explained above.
 **std::string serializeTree() const**    
 Serialize the tree using the above method. We do not need the frequency values to rebuild the tree, just the characters on the leaves and where the branches are in the post order. 
 
-**std::string decompress(const std::string inputCode, const std::string serializedTree)** 
+**std::string decompress(const std::string inputCode, const std::string serializedTree)**   
 Given a string created with the compress method and a serialized version of the tree, return the decompressed original string  
 
 Please use test file HuffmanTreeTest.cpp to test your given input. 
