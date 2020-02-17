@@ -6,6 +6,10 @@ Author
 -------
 Mihir Patel   
 
+Status
+-------
+Completed
+
 Description
 -------------   
 This program is made for generating Huffman codes to compress a given string. A Huffman code uses a set of prefix code to compress the string with no loss of data (lossless). David Huffman developed this algorithm in the paper “A Method for the Construction of Minimum-Redundancy Codes,” [read it here.](http://compression.ru/download/articles/huff/huffman_1952_minimum-redundancy-codes.pdf) 
